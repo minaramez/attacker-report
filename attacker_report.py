@@ -18,8 +18,6 @@ os.system('clear')
 #print functions to show the student name and date, along with information about the script.
 print(" ")
 print("Script written by: Mina Ramez Farag")
-print("Email ID: mrf7074")
-print("Date: May 3, 2023")
 print("")
 print("       ***********************")
 print("       ****Attacker Report****")
